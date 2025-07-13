@@ -4,7 +4,7 @@ Android app to open Moodle links of the TU Darmstadt in the official Moodle app.
 ![Screenshot to illustrate the app](img/screenshot_1.png)
 
 ## Disclaimer
-Neither is this an official project by the TU Darmstadt or Moodle. This is just started by me, a student at the TU Darmstadt, that has too much spare time.
+This is not an official project of either TU Darmstadt or Moodle. This is just started by me, a student at the TU Darmstadt, that has too much spare time.
 
 ## You can download and install the app for free [here](https://f-droid.org/de/packages/de.jonasbernard.tudarmstadtmoodlewrapper/).
 
